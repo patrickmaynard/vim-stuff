@@ -5,18 +5,22 @@ noremap <Down> <NOP>
 noremap <Left> <NOP>
 noremap <Right> <NOP>
 
-"... and a couple nice highlighting options
+" ... and putting in a couple nice highlighting options
 syntax on
 set hlsearch
 
-" ... and now a few whitespace things to make working with others easier (especially in our team's python environment)
+" ... and setting up a search/replace reporting behavior
+" (tells vim to say things like "92 substitutions on 20 lines")
+set report=0
+
+" ... and now a few whitespace things to make working with others easier (especially in our team's PHP environment)
 " size of a hard tabstop
-set tabstop=2
+set tabstop=4
 " size of an "indent"
-set shiftwidth=2
+set shiftwidth=4
 " a combination of spaces and tabs are used to simulate tab stops at a width
 " other than the (hard)tabstop
-set softtabstop=2
+set softtabstop=4
 
 filetype indent plugin on
 
