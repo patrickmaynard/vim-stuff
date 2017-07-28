@@ -27,3 +27,5 @@ filetype indent plugin on
 "Also see http://stackoverflow.com/a/14114909/4315597 for some manual indenting options.
 
 "Also see http://stackoverflow.com/questions/1919492/when-in-vim-insert-mode-is-there-a-way-to-add-filepath-autocompletion for file path autocompletion.
+
+"Also see https://coderwall.com/p/if9mda/automatically-set-paste-mode-in-vim-when-pasting-in-insert-mode for paste-mode fun.
