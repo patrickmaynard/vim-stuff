@@ -30,4 +30,4 @@ filetype indent plugin on
 
 "Also see https://coderwall.com/p/if9mda/automatically-set-paste-mode-in-vim-when-pasting-in-insert-mode for paste-mode fun.
 
-"Also see https://vim.sourceforge.io/scripts/script.php?script_id=1682 for default counts on search results.
+"Also see https://github.com/henrik/vim-indexed-search for default counts on search results.
