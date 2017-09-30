@@ -47,5 +47,5 @@ filetype indent plugin on
 
 "Also see https://coderwall.com/p/if9mda/automatically-set-paste-mode-in-vim-when-pasting-in-insert-mode for paste-mode fun.
 
-"... and something to play with later, after playing with vimtutor gets old: https://github.com/wikitopian/hardmode
+"... and something to play with later, after playing with vimtutor gets old: https://github.com/takac/vim-hardtime
 
