@@ -41,4 +41,6 @@ filetype indent plugin on
 
 "Also see https://courses.cs.washington.edu/courses/cse451/10au/tutorials/tutorial_ctags.html#ctags-with-vim for ctags stuff.
 
+"Also see https://blog.sensible.io/2014/05/09/supercharge-your-vim-into-ide-with-ctags.html for more on ctags.
+
 "Also see https://coderwall.com/p/if9mda/automatically-set-paste-mode-in-vim-when-pasting-in-insert-mode for paste-mode fun.
