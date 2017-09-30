@@ -37,4 +37,6 @@ filetype indent plugin on
 
 "Also see http://stackoverflow.com/questions/1919492/when-in-vim-insert-mode-is-there-a-way-to-add-filepath-autocompletion for file path autocompletion.
 
+"Also see full comments on https://www.youtube.com/watch?v=3TX3kV3TICU for even better native autocompletion options. 
+
 "Also see https://coderwall.com/p/if9mda/automatically-set-paste-mode-in-vim-when-pasting-in-insert-mode for paste-mode fun.
