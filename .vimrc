@@ -24,6 +24,10 @@ set softtabstop=4
 
 filetype indent plugin on
 
+" ... or if that doesn't work and you don't have time to mess around, feel free to just try ...
+" set smartindent    
+" ... and call it a day. (Commented out by default on the assumption that your version has the plugin above.)
+
 
 " ... and remember to show the status line with good info
 " (off by default, since most instances already do this)
